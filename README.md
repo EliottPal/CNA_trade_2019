@@ -12,8 +12,9 @@ The more made you made, the better your grade will be!
 **Grade:** **B**  
 
 This bot uses an algorithm based on ***Exponential Moving averages***  
-There is a lot of comments inside my code so it won't be so hard for you to understand how it works.
-
+There is a lot of comments inside my code so it won't be so hard for you to understand how it works.  
+  
+**Trading day results:**  
 | Data set | Results | Profit |  
 | --- | --- | --- |  
 | Training set | `$2033.42` |:arrow_upper_right:  +  1033.42 $|
